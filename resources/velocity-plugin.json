@@ -6,5 +6,11 @@
   "authors": [
     "4drian3d"
   ],
+  "dependencies": [
+    {
+      "id": "miniplaceholders",
+      "optional": false
+    }
+  ],
   "main": "io.github._4drian3d.valert.VAlert"
 }
