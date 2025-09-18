@@ -1,0 +1,8 @@
+product: jvm/app
+
+repositories:
+  - url: https://repo.papermc.io/repository/maven-public/
+
+dependencies:
+  - com.velocitypowered:velocity-api:3.4.0-SNAPSHOT: compile-only
+  - io.github.miniplaceholders:miniplaceholders-api:3.0.1: compile-only
